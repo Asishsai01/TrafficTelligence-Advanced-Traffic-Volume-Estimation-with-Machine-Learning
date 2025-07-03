@@ -153,8 +153,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Asish Sai**
-GitHub: [@yourusername](https://github.com/yourusername)
-Email: [your.email@example.com](mailto:your.email@example.com)
+GitHub: [@yourusername](https://github.com/Asishsai01)
+Email: [your.email@example.com](asishsai972@gmail.com)
 
 ---
 
